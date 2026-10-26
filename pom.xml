@@ -12,7 +12,7 @@
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
-	<description>Online Examination Portal (Examora) - Jenkins Auto Deploy</description>
+	<description>Online Examination Portal (ExamSphere) - Jenkins Auto Deploy</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
